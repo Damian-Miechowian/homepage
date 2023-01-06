@@ -1,0 +1,10 @@
+.section__line {
+    border-bottom: ridge 2px yellowgreen;
+    margin: 6% 4% 3% 4%;
+}
+
+
+.section {
+    color: rgb(6, 3, 27);
+    /* background-color: rgba(24, 96, 66, 0.493); */
+}

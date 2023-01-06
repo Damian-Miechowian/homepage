@@ -1,0 +1,33 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+.main {
+    background-color: rgba(131, 166, 175, 0.493);
+}
+
+
+.body {
+    background-color: rgba(131, 166, 175, 0.493);
+    color: black;
+    line-height: 1.8;
+    max-width: 1200px;
+    text-align: center;
+    border: 8px groove rgba(186, 233, 19, 0.637);
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.body--grey {
+    background-color: grey;
+}

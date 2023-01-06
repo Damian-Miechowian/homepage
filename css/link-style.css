@@ -1,0 +1,12 @@
+.linkStyle {
+    color: white;
+    background-color: crimson;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.linkStyle__secondLinkstyle {
+    color: rgb(241, 245, 16);
+    text-decoration: none;
+    font-size: 1.5
+}

@@ -1,0 +1,23 @@
+.header {
+    color: whitesmoke;
+    background: rgba(24, 96, 66, 0.493);
+
+}
+
+.headline__secondHeadline {
+    color: rgb(60, 60, 13);
+    background: rgba(24, 96, 66, 0.493);
+}
+
+
+.section__mainSubtitles {
+    color: #191318;
+    font-size: 25px;
+    font-weight: 900;
+    text-shadow: 6px 6px 10px #38242473;
+}
+
+.headline__interestingItem {
+    color: rgb(241, 245, 16);
+    font-size: 20px;
+}
