@@ -1,5 +1,7 @@
-# homepage
+# Damian Miechowian - Home Page
 
-## This is my test's Homepage
-
+## Below is my test's homepage
 https://damian-miechowian.github.io/homepage/
+
+**Descryption**
+*Test*
