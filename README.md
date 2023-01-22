@@ -1,7 +1,7 @@
-# Damian Miechowian - Home Page
+# Damian Miechowian - Homepage
 
-## Below is my test's homepage
+## Demo
 https://damian-miechowian.github.io/homepage/
 
 **Descryption**
-*Test*
+This is my Homepage programmed as part of the Youcode Frontend Developer course.
