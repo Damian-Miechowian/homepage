@@ -3,5 +3,5 @@
 ## Demo
 https://damian-miechowian.github.io/homepage/
 
-**Descryption**
+### Descryption ###
 This is my Homepage programmed as part of the Youcode Frontend Developer course.
