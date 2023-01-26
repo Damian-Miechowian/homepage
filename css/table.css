@@ -1,10 +1,8 @@
 .table {
-    /* margin-top: 40px; */
     overflow-x: auto;
-
     margin: 20px auto;
     border-collapse: collapse;
-    /* overflow-x: auto; */
+  
 }
 
 .table__caption {
