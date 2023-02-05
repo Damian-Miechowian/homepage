@@ -2,7 +2,8 @@
 
 ## Demo
 https://damian-miechowian.github.io/homepage/
-![calc_screenshot](https://user-images.githubusercontent.com/121828192/216845403-16983375-d6e4-4614-9182-f16d887ecac2.jpg)
+
+![homepage_screenshot](https://user-images.githubusercontent.com/121828192/216845852-7591d3ec-33a7-4599-bc6f-1da35f0d3ea6.jpg)
 
 ## Descryption ##
 This is my Homepage programmed as part of the Youcode Frontend Developer course.
